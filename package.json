@@ -1,6 +1,6 @@
 {
   "name": "oblivious-transfer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Oblivious Transfer",
   "homepage": "https://github.com/kevinejohn/oblivious-transfer/",
   "main": "index.js",
